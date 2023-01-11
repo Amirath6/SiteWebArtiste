@@ -1,0 +1,8 @@
+# Informations de connection
+DB_TYPE : postgresql
+DB_HOST : postgresql.info.unicaen.fr
+DB_PORT : 5432
+DB_USER : 22012235
+DB_PASS : on6Oowa6pae7Ohje
+# Liste des basses de données disponibles
+DB_NAME : 22012235_bd

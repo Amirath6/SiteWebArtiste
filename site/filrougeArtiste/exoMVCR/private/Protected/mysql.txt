@@ -1,0 +1,20 @@
+# Informations de connection
+DB_TYPE : mysql
+DB_HOST : mysql.info.unicaen.fr
+DB_PORT : 3306
+DB_USER : 22012235
+DB_PASS : aedieDe8joo5wahZ
+# Liste des basses de données disponibles
+DB_NAME : 22012235_bd
+DB_NAME : 22012235_prod
+DB_NAME : 22012235_dev
+DB_NAME : 22012235_0
+DB_NAME : 22012235_1
+DB_NAME : 22012235_2
+DB_NAME : 22012235_3
+DB_NAME : 22012235_4
+DB_NAME : 22012235_5
+DB_NAME : 22012235_6
+DB_NAME : 22012235_7
+DB_NAME : 22012235_8
+DB_NAME : 22012235_9
